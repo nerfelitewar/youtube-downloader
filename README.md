@@ -1,2 +1,4 @@
-# youtube-downloader
-Very easy and nice YT downloader with few GUIs
+# Youtube Downloader
+Very easy and nice YT downloader with few GUIs.
+
+
